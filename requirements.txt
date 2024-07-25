@@ -1,0 +1,7 @@
+undetected-chromedriver
+selenium
+beautifulsoup4
+pandas
+numpy
+webdriver-manager
+lxml
